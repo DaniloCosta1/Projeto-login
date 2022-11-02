@@ -61,5 +61,6 @@ telas grandes: 1201 ....
 
       div#formulario > p{
             font-size: 1.2em;
+            margin: 20px 0px;
       }
 }
